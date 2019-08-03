@@ -1,0 +1,24 @@
+[
+
+
+  {
+    "id" : 1,
+    "name" : "JOhn Doe",
+    "company" : "123 design",
+    "phone" : "444-77-6666"
+  },
+
+  {
+    "id" : 2,
+    "name" : "Marcus Aurelious",
+    "company" : "1234 design",
+    "phone" : "444-88-6666"
+  },
+
+  {
+    "id" : 3,
+    "name" : "Trevor Ongoja",
+    "company" : "1236 design",
+    "phone" : "444-99-6666"
+  }
+]
